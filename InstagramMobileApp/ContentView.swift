@@ -181,7 +181,7 @@ struct Notifications : View{
     var body: some View {
         GeometryReader{ _ in
             VStack{
-                Text("Notification Area").foregroundColor(.red).font(.system(size: 55,weight:.bold))
+                Text("Notifion Area").foregroundColor(.red).font(.system(size: 55,weight:.bold))
             }
             
         }
